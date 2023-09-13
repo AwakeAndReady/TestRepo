@@ -1,4 +1,5 @@
 ToDo List
 *********
-- implement code
-- clean code
+- implement code -> done
+- clean code -> done
+
